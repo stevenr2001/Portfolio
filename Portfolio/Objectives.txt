@@ -1,0 +1,124 @@
+Objective:
+Build a static personal portfolio website to showcase projects, provide contact information, and demonstrate web development skills.
+
+Tech Stack:
+HTML5 (Structure)
+
+CSS3 (Styling, Flexbox/Grid for layout)
+
+JavaScript (Optional: For interactivity like a mobile menu or project filtering)
+
+Git & GitHub (Version control & deployment via GitHub Pages)
+
+Features & Pages:
+Home Page (Main Portfolio Page)
+
+Hero section (Name, title, brief intro)
+
+Featured projects (Cards with images, titles, descriptions, and links)
+
+Skills/Technologies section
+
+Call-to-action (e.g., "View my work" or "Contact me")
+
+Projects Page (Optional, if not on Home Page)
+
+Detailed list of projects with:
+
+Project name
+
+Screenshot/thumbnail
+
+Description
+
+Technologies used
+
+Links (Live demo, GitHub repo)
+
+Contact Page
+
+Contact form (Name, email, message)
+
+Social media links (GitHub, LinkedIn, Twitter, etc.)
+
+Email address (optional)
+
+About Page (Optional)
+
+Bio
+
+Professional background
+
+Photo
+
+Timeline (1-2 Weeks)
+Week 1: Planning & Setup
+✅ Day 1-2:
+
+Define project scope (stick to MVP—no unnecessary features).
+
+Sketch wireframes (paper or digital).
+
+Choose color scheme, fonts, and design style (minimalist, modern, etc.).
+
+✅ Day 3-4:
+
+Set up GitHub repository.
+
+Create basic file structure:
+
+Copy
+/portfolio  
+  ├── index.html (Home)  
+  ├── projects.html (or include in home)  
+  ├── contact.html  
+  ├── about.html (optional)  
+  ├── /css  
+  │   └── style.css  
+  ├── /js (optional)  
+  │   └── script.js  
+  └── /images  
+Write initial HTML structure for all pages.
+
+✅ Day 5-7:
+
+Style homepage with CSS (mobile-first approach).
+
+Ensure responsiveness (test on different screen sizes).
+
+Add project cards with placeholder content.
+
+Week 2: Refinement & Deployment
+✅ Day 8-9:
+
+Complete styling for all pages.
+
+Add hover effects, transitions (if time allows).
+
+Implement contact form (basic HTML form or Formspree for submission).
+
+✅ Day 10-11:
+
+Test all links, images, and navigation.
+
+Fix any accessibility issues (alt text, semantic HTML).
+
+Optimize images for fast loading.
+
+✅ Day 12-14:
+
+Deploy to GitHub Pages.
+
+Final review (ask for feedback if possible).
+
+Submit project!
+
+Avoid Scope Creep!
+🚫 No backend (unless required later).
+🚫 No complex animations (unless MVP is done early).
+🚫 No additional pages beyond requirements (unless time permits).
+
+Success Metrics:
+✔️ Functional, responsive portfolio.
+✔️ Clean, readable code.
+✔️ Deployed and accessible via GitHub Pages.
